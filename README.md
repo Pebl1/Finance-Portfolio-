@@ -1,1 +1,2 @@
-# Finance-Portfolio-dddd
+# Finance-Portfolio 
+This repository contains various projects I've done within student groups and externally. Included are stock pitch slide deck (ppt), One Pagers, and Valuation reports for various companies. All the documents were either prepared by me or as a part of a team when I was a member for the Ted Rogers Investment Council, Investa Insights, and the Ted Rogers Student Managed Investment Fund.
